@@ -26,6 +26,7 @@ export default function Home() {
                     name="description"
                     content="HTML reference"
                 />
+                <link rel="manifest" href="manifest.json" />
                 <link rel="icon" href="/favicon.ico" />
             </Head>
 
